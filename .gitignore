@@ -1,4 +1,8 @@
 **/build_step?
 **/build_step?/**
 **/CMakeFiles
+**/CMakeFiles/**
+**/*.cmake
+**/Makefile
+**/CMakeCache.txt
 .vscode
