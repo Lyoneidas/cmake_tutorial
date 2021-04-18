@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/learning/cmake_tutorial/AddALibrary_step3/main.cc
+cmath
+-
+iostream
+-
+string
+-
+TutorialConfig.h
+/home/ubuntu/learning/cmake_tutorial/AddALibrary_step3/TutorialConfig.h
+MySqrt.h
+/home/ubuntu/learning/cmake_tutorial/AddALibrary_step3/MySqrt.h
+
+TutorialConfig.h
+
